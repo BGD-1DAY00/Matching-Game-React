@@ -1,0 +1,15 @@
+.grid{
+  display: grid;
+  margin-top: 40px;
+  grid-template-columns: repeat(4,1fr)
+
+}
+
+.front{
+  transform: rotateY(90deg);
+  position: absolute;
+}
+
+.flipped{
+  transform: rotateY(0deg);
+}
