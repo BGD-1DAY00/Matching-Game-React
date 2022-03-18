@@ -1,3 +1,8 @@
+# A matching Game
+- followed a net ninja project
+- practicing the react fundementals including hooks & styling
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
